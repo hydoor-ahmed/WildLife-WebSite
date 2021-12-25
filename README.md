@@ -1,1 +1,1 @@
-![WildLife-WebSite](../src/img/design.svg)
+![WildLife-WebSite](./src/img/design.svg)
